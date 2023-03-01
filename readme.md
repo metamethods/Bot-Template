@@ -1,5 +1,5 @@
 # Discord Js v14 Bot Template
-This is some totally ~~bad~~ bot template for discord.js v14.
+This is some totally good ~~bad~~ bot template for discord.js v14.
 
 _If you want, you can also help by adding pull requests/issues if you wanted to add something or notify me for a bug._
 
